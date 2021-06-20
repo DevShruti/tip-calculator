@@ -1,2 +1,3 @@
 # tip-calculator
-Javascript challenge
+## Javascript challenge
+### Weekly Web Dev Challenge
